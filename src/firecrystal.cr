@@ -1,5 +1,5 @@
 require "./firecrystal/*"
-require "URI"
+require "uri"
 
 module Firecrystal
   class Client

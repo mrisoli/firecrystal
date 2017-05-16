@@ -1,5 +1,7 @@
 # firecrystal
 
+[![Build Status](https://travis-ci.org/mrisoli/firecrystal.svg?branch=master)](https://travis-ci.org/mrisoli/firecrystal)
+
 Crystal lib to access firebase
 
 ## Installation
@@ -40,5 +42,6 @@ TODO: Write development instructions here
 ## Contributors
 
 - [mrisoli](https://github.com/mrisoli) mrisoli - creator, maintainer
+
 
 
