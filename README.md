@@ -1,6 +1,9 @@
 # firecrystal
 
+
 [![Build Status](https://travis-ci.org/mrisoli/firecrystal.svg?branch=master)](https://travis-ci.org/mrisoli/firecrystal)
+[![Dependency Status](https://shards.rocks/badge/github/mrisoli/firecrystal/status.svg)](https://shards.rocks/github/mrisoli/firecrystal)
+[![devDependency Status](https://shards.rocks/badge/github/mrisoli/firecrystal/dev_status.svg)](https://shards.rocks/github/mrisoli/firecrystal)
 
 Crystal lib to access firebase
 
